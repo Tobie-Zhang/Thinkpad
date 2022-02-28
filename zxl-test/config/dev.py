@@ -31,7 +31,7 @@ DATABASES = {
         'USER': 'zhangxingliang',
         'PASSWORD': 'gNmsfsN6iRsrMsyu',
         'HOST': '172.16.1.32',
-        'PORT': '3306',
+        'PORT': 3306,
     },
 }
 
